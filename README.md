@@ -1,9 +1,4 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="50"/>
-
-# Airline Passengers Satisfaction Classification by Léo
-**Leonardo Cavalcante Araújo**
-
-*Data Analytics Full-Time FEB2021, Paris & March 25th 2021*
+# Airline Passengers Satisfaction Classification
 
 ## Content
 - [Project Description](#project-description)
